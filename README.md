@@ -31,15 +31,3 @@ Start Over Option: Reset quiz and summary to start a new study session.
 Handles Letters + Text: Quiz options with letters (A, B, C, etc.) and text.
 
 
-# Open this url:
-
-
-Upload your PDF study notes.
-
-Select quiz type (Multiple Choice or True/False) and number of questions.
-
-Click Generate Summary & Quiz.
-
-Complete the quiz and view your final score.
-
-Optionally, click Start New Quiz to reset.
